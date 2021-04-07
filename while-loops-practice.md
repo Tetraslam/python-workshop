@@ -11,7 +11,8 @@
 - If the second number is greater than the first, make the program print every value from the first number to the second number using a variable that gets increased every iteration of the while loop.
 - It should stop once it reaches the second number.
 - Once it finished counting, it should print this message: "I have finished counting. Exiting now." After this, just insert the following code:
-```import time
+```
+import time
 time.sleep(3)
 exit()
 ```
